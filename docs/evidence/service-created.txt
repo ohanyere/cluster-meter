@@ -1,0 +1,2 @@
+NAME            TYPE        CLUSTER-IP      EXTERNAL-IP   PORT(S)   AGE
+cluster-meter   ClusterIP   172.20.57.198   <none>        80/TCP    8h

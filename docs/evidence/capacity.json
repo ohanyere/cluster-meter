@@ -1,0 +1,30 @@
+{
+  "metrics": {
+    "overallPressurePercent": 31.818181818181817,
+    "cpuRequestPercent": 15.544041450777202,
+    "memoryRequestPercent": 9.322980505556448,
+    "podCapacityPercent": 31.818181818181817,
+    "riskLevel": "HEALTHY",
+    "totalPods": 7,
+    "totalNodes": 2,
+    "readyNodes": 2,
+    "totalCPURequested": 600,
+    "totalMemoryRequested": 281018368,
+    "totalCPUAllocatable": 3860,
+    "totalMemoryAllocatable": 3014254592,
+    "totalPodAllocatable": 22,
+    "namespaces": 5,
+    "deployments": 2
+  },
+  "stateChanges": [
+    "No significant changes since last snapshot."
+  ],
+  "cause": {
+    "primary": [
+      "No significant operational change detected"
+    ],
+    "impact": []
+  },
+  "recommendations": [],
+  "commands": []
+}
