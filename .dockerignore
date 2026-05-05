@@ -1,0 +1,11 @@
+.git
+.codex
+.cache
+.cluster-meter
+bin/
+dist/
+tmp/
+coverage.out
+*.test
+Dockerfile
+deploy/
